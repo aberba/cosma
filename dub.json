@@ -1,0 +1,15 @@
+{
+	"name": "cosma",
+	"authors": [
+		"Lawrence Aberba"
+	],
+	"copyright": "Copyright © 2023, Lawrence Aberba",
+	"dependencies": {
+		"gtk-d": "~>3.9.0"
+	},
+	"description": "A GTK+ UI component library for D.",
+	"lflags-windows-x86_64-ldc": [
+		"-Llib\\win64"
+	],
+	"license": "BSL-1.0"
+}

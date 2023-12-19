@@ -1,0 +1,66 @@
+/** {
+	background-color: red;
+}*/
+
+.h1 {
+	font-size: 2em;
+	font-weight: bold;
+	margin: 0 0 .5em 0;
+}
+
+.h2 {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: 0 0 .5em 0;
+}
+
+#card {
+	padding: 2em;
+	background-color: #ffffff;
+	border: 1px solid #dddfe2;
+}
+
+.input_group {
+	/*padding: 0;*/
+	margin: 0 0 0.5em 0;
+	/*background-color: papayawhip;*/
+}
+
+.entry {
+	/*margin: 0;*/
+	/*border: 1px solid red;*/
+}
+
+#button {
+	color: #ffffff;
+	background: dodgerblue;
+	border: 1px solid dodgerblue;
+	border-radius: 50px;
+	opacity: 1;
+	text-shadow: none;
+    box-shadow: none;
+}
+
+button:backdrop, button:backdrop label {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.signInView {
+	/*max-width: 400px;*/
+	margin: 4em 2em;
+}
+
+.signUpView {
+	/*max-width: 400px;*/
+	margin: 4em 2em;
+}
+
+#mainNotebook {
+	border: 1px solid red;
+	/*margin: none;
+	padding: none;*/
+}
+
+.error-message {
+	color: red;
+}
